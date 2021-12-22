@@ -10,5 +10,5 @@ Como o projeto faz parte do bootcamp Inter FrontEnd Developer, resolvi usar como
 
 O layout final pode ser acessado clicando no link: <https://interflixproject.netlify.app/>
 
-!(https://github.com/SamuelCezar/interflix/blob/master/img/interflix.png)
+![](https://github.com/SamuelCezar/interflix/blob/master/img/interflix.png)
 
