@@ -8,7 +8,7 @@ O projeto tinha por objetivo construir uma interfaçe inspirada na Netflix e que
 
 Como o projeto faz parte do bootcamp Inter FrontEnd Developer, resolvi usar como inspiração o próprio banco e seus produtos/serviços para construir o layout.
 
-O layout final pode ser acessado clicando no link: <https://interflixproject.netlify.app/>
+O layout final bem como seu comportamento pode ser acessado clicando no link: <https://interflixproject.netlify.app/>
 
 ![](https://github.com/SamuelCezar/interflix/blob/master/img/interflix.png)
 
