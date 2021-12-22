@@ -1,6 +1,6 @@
 # INTERFLIX
 
-##Sobre o projeto
+## Sobre o projeto
 
 Projeto proposto pela Digital Innovation One Layout inspirado no layout front-end da Netflix desenvolvido majoritariamente com HTML5/CSS3. 
 
@@ -10,5 +10,5 @@ Como o projeto faz parte do bootcamp Inter FrontEnd Developer, resolvi usar como
 
 O layout final bem como seu comportamento pode ser acessado clicando no link: <https://interflixproject.netlify.app/>
 
-![](https://github.com/SamuelCezar/interflix/blob/master/img/interflix.png)
+[](https://github.com/SamuelCezar/interflix/blob/master/img/interflix.png)
 
