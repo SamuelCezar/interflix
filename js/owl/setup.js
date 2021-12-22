@@ -2,7 +2,13 @@ $('.owl-carousel').owlCarousel({
     loop:true,
     margin:10,
     video:true,
+    videoWidth: false,
+    videoHeight: false,
+    center: true,
+    merge:false,
     nav:true,
+    lazyLoad: true,
+    items:1,
     responsive:{
         0:{
             items:1
@@ -11,7 +17,7 @@ $('.owl-carousel').owlCarousel({
             items:3
         },
         1000:{
-            items:5
+            items:8
         }
     }
 })
